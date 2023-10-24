@@ -1,0 +1,7 @@
+1.CONFIG
+2.DataProcessing
+3.read_vecor
+4.SequenceToSequence
+5.Train
+6.RestfulAPI
+7.index.exe try running.
